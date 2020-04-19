@@ -17,4 +17,6 @@ This Framework has the following options:
 5. vulnerability scanner on given IP 
 
 6. display running services on a given host 
-Please give me any feedback, recommendation, or suggestion that you have sending email to:: afshar11@yahoo.com
+
+
+Please give me any feedback, recommendation, or suggestion that you have.
