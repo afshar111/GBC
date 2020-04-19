@@ -101,7 +101,7 @@ def osint() :
     print("The URL you entered is: ", url)
     print("<----------------------------------------------------->")
     print("<-------------------Please Wait----------------------->")	 
-    subprocess.call(["theHarvester", "-d" , url , "-b", "google"]) 
+    subprocess.call(["theHarvester", "-d" , url , "-b", "all"]) 
     print("<----------------------------------------------------->")  
     return  
     
