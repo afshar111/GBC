@@ -1,5 +1,5 @@
 # GB1
-This is a Simple Penetration Testing Framework with Python.
+This is a Simple Penetration Testing Framework with Python3.
 
 This python application has a menu, which the users can select the services they want. Each option has a configuration E.g. (IP/PORT Scan: )  IP/IP Range: 192.168.56.10/15  PORT/ Port range: 22,21,9200  Method: SYN,ACK 
 
@@ -20,3 +20,8 @@ This Framework has the following options:
 
 
 Please give me any feedback, recommendation, or suggestion that you have.
+Thanks Ali,
+References:
+- http://zetcode.com/python/prettytable/
+- 
+
