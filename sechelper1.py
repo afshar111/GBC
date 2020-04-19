@@ -114,7 +114,7 @@ def snif() :
     Ofile = input("Please enter the the file name to save result: ")
     print("<----------------------------------------------------->")
     print("<-------------------Please Wait----------------------->")	 
-    subprocess.call(["tcpdump", "-G" , T , "-w", "Ofile"]) 
+    subprocess.call(["tcpdump", "-G" , T , "-w", Ofile]) 
     print("<----------------------------------------------------->")  
 #    capture = pyshark.LiveCapture(interface='eth0')
 #    capture.sniff(timeout=5)
@@ -164,7 +164,8 @@ elif Mainresp == '6':
 elif Mainresp >= '6':
         print("Please enter a valid option")        
         
-  
+print("<----------------------------------------------------->")
+print("<----------------Testing Finished--------------------->")  
      
 
 
