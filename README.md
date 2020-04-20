@@ -24,10 +24,8 @@ Please give me any feedback, recommendation, or suggestion that you have.
 Thanks Ali,
 
 References:
-- http://zetcode.com/python/prettytable/
-
+- http://zetcode.com/python/prettytable/   
 - https://nmap.org/book/port-scanning-options.html
-
--https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q/featured
+- https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q/featured
  
 
